@@ -1,0 +1,8 @@
+1- Text preprocessing
+2- Spam text handling
+3- Add app token 
+4- Convert to fastapi - async await
+5- Create .env file  
+6- Gitlab repo/in production folder
+
+- for hf token create it that way that it takes input a token once and uses it untill it is expired or a new one is provided then store/ use than 
